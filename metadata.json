@@ -1,0 +1,6 @@
+{
+  "name": "ExamPrep AI - Academic Tutor & Study Kit",
+  "description": "Transform raw study notes, lecture texts, and textbook photos into structured study kits with key concepts, practice exam questions, and interactive flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
